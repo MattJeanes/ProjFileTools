@@ -1,3 +1,5 @@
+# DEPRECATED: Use https://marketplace.visualstudio.com/items?itemName=mhutch.MSBuildEditor instead
+
 # Project File Tools
 
 <!-- Replace this badge with your own-->
